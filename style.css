@@ -1,0 +1,66 @@
+.nav-link{
+    font-size: large;
+}
+
+.navbar-brand{
+    color: #61DAFB !important;
+    font-weight: bold;
+}
+
+.heading1{
+    color: #61DAFB !important;
+    font-size: 60px;
+}
+
+.form-control{
+    background-color: black !important;
+    color: darkgrey;
+    border: none !important;
+    margin-left: 180px !important;
+    height: 35px !important;
+}
+
+#textarea{
+    outline: black !important;
+}
+
+.para{
+    font-weight: bold;
+    color: black !important;
+}
+
+.form{
+    margin: 30px !important;
+}
+
+.behindNav{
+    background-color: #20232A !important ;
+    color: white;
+    text-align: center;
+    height: 450px;
+}
+
+.btn-primary{
+    color: black !important;
+    background-color:  #61DAFB !important;
+    width: 140px !important;
+    height: 50px !important;
+}
+
+.tutoriol{
+    color:#61DAFB !important;
+    font-size: larger !important;
+}
+
+.listItems li{
+     list-style-type: none;
+}
+
+.btnlast{
+    margin-left: 580px;
+}
+
+.listItems li:hover{
+     color: #61DAFB;
+     cursor: pointer;
+}
