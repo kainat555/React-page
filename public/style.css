@@ -56,8 +56,13 @@
      list-style-type: none;
 }
 
-.btnlast{
+/* .btnlast{
     margin-left: 580px;
+} */
+
+.btnlast{
+     display: flex;
+     justify-content: center;
 }
 
 .listItems li:hover{
